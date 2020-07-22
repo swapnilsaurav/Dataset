@@ -1,4 +1,4 @@
-city,lat,lng,country,iso2,admin,capital,population,population_proper
+city,lat,lon,country,iso2,admin,capital,population,population_proper
 Mumbai,18.987807,72.836447,India,IN,Mahārāshtra,admin,18978000,12691836
 Delhi,28.651952,77.231495,India,IN,Delhi,admin,15926000,7633213
 Kolkata,22.562627,88.363044,India,IN,West Bengal,admin,14787000,4631392
